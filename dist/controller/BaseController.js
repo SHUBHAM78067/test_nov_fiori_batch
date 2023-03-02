@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","com/emc/fin/ap/util/lifeSaver"],function(e,r){"use strict";return e.extend("com.emc.fin.ap.controller.BaseController",{formatter:r})});

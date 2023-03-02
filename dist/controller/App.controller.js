@@ -1,0 +1,1 @@
+sap.ui.define(["com/emc/fin/ap/controller/BaseController"],function(n){"use strict";return n.extend("com.emc.fin.ap.controller.App",{onInit:function(){}})});
